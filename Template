@@ -1,0 +1,167 @@
+
+
+
+
+[CODE]/*
+
+
+
+  * Your warranty is now void.
+
+
+
+  *
+
+
+
+  * I am not responsible for bricked devices, dead SD cards,
+
+
+
+  * thermonuclear war, or you getting fired because the alarm app failed. Please
+
+
+
+  * do some research if you have any concerns about features included in this ROM
+
+
+
+  * before flashing it! YOU are choosing to make these modifications, and if
+
+
+
+  * you point the finger at me for messing up your device, I will laugh at you.
+
+
+
+  */[/CODE]
+
+
+
+
+
+
+
+DroidX-UI is an Custom AOSP Based Rom for Android Devices. 
+
+
+
+Our Goal is to Deliver Performance with many Features, Security, Cleanliness, and good Battery Life, Trying to make Something Unique than any other Android ROMS. 
+
+
+
+We Hope That you'll Love our Work, and help us in Making it even Better in the Future.
+
+
+
+
+
+Instructions for flashing:
+
+
+
+You Can Use TWRP For This Rom
+
+Reboot to recovery
+
+Wipe data, cache, and dalvik if coming from another ROM
+
+Flash ROM zip
+
+(optional) Flash GApps (for vanilla builds)
+
+(optional) Flash Magisk (root)
+
+Format data if encrypted
+
+Reboot and voila!
+
+
+
+Upgrading to a Newer Build
+
+Reboot to recovery
+
+Wipe cache and dalvik
+
+Flash ROM zip
+
+(optional) Flash Magisk
+
+Reboot and voila!
+
+
+
+Note: First boot and boots after every update can take some time. 
+
+
+
+Downloads:
+
+
+
+
+
+
+
+Official Builds | GApps  
+
+
+
+                                     S10E
+
+                                     S10
+
+                                     S10 5G
+
+                                     S10+
+
+
+
+
+
+Sources:
+
+
+
+
+
+
+
+Device Tree | Kernel | ROM
+
+
+
+
+
+
+
+Credits
+
+
+
+DroidX-UI Team
+
+Ivan Meler
+
+Lineage Os Team
+
+All Roms And Devs
+
+
+
+ Official Website:
+
+
+
+
+
+
+
+Official Telegram group:
+
+
+
+DroidX-UI
+
+My Telegram Group
